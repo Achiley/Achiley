@@ -1,5 +1,5 @@
 ### Olá, eu sou a Achiley Santos
-- 🌱 Estudando JavaScript
+- 🌱 Análise e Desenvolvimento de Sistemas 1/5
 - 📫 Contate-me no e-mail: santosachiley@gmail.com
 - 😄 Pronouns: ela/dela
 
