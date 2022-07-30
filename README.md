@@ -1,6 +1,6 @@
 ### Olá, eu sou a Achiley Santos
 - 🌱 Análise e Desenvolvimento de Sistemas 1/5
-- 📫 Contate-me no e-mail: santosachiley@gmail.com
+- 📫 Contate-me no e-mail: achileyprofissional@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
