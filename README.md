@@ -1,5 +1,5 @@
 ### Olá, eu sou a Achiley Santos
-- 🌱 Análise e Desenvolvimento de Sistemas 1/5
+- 🌱 Análise e Desenvolvimento de Sistemas 2/5
 - 📫 Contate-me no e-mail: achileyprofissional@gmail.com
 - 😄 Pronouns: ela/dela
 
@@ -23,7 +23,6 @@
   <a href = "mailto:santosachiley@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/achiley-santos-a55685208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
           
